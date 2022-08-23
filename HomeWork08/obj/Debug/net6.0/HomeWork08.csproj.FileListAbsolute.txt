@@ -1,0 +1,17 @@
+C:\Beetroot_C#\HomeWork08\HomeWork08\bin\Debug\net6.0\Phone Book.csv
+C:\Beetroot_C#\HomeWork08\HomeWork08\bin\Debug\net6.0\HomeWork08.exe
+C:\Beetroot_C#\HomeWork08\HomeWork08\bin\Debug\net6.0\HomeWork08.deps.json
+C:\Beetroot_C#\HomeWork08\HomeWork08\bin\Debug\net6.0\HomeWork08.runtimeconfig.json
+C:\Beetroot_C#\HomeWork08\HomeWork08\bin\Debug\net6.0\HomeWork08.dll
+C:\Beetroot_C#\HomeWork08\HomeWork08\bin\Debug\net6.0\HomeWork08.pdb
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\HomeWork08.csproj.AssemblyReference.cache
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\HomeWork08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\HomeWork08.AssemblyInfoInputs.cache
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\HomeWork08.AssemblyInfo.cs
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\HomeWork08.csproj.CoreCompileInputs.cache
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\HomeWork08.dll
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\refint\HomeWork08.dll
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\HomeWork08.pdb
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\HomeWork08.genruntimeconfig.cache
+C:\Beetroot_C#\HomeWork08\HomeWork08\obj\Debug\net6.0\ref\HomeWork08.dll
+C:\Beetroot_C#\HomeWork08\HomeWork08\bin\Debug\net6.0\Program.cs
